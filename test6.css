@@ -1,0 +1,39 @@
+body{
+    width: 1140px;
+    margin: auto;
+}
+.rod-img{
+    display: flex;
+    justify-content: space-between;
+}
+.rod-img img
+{
+    width: 350px;
+    height: 300px;
+}
+.rod-img-1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.rod-img-1 img
+{
+    width: 350px;
+    height: 300px;
+}
+ul li:hover{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.rod-info{
+    display: flex;
+    justify-content: space-between;
+}
+.sect-info{
+    width: 550px;
+}
+.img11{
+    width: 500px;
+    height: 350px;
+}
